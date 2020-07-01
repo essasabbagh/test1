@@ -1,0 +1,50 @@
+/* rule */
+body {
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.header nav-bar {
+    width: 1170px;
+    margin: auto;
+}
+.nav-bar {
+    
+    height: 20px;
+    background-color: white;
+    box-shadow: red;
+}
+.line {
+    width: 75%;
+    height: 2px;
+    margin: 5px auto;
+    background-color: #ed1c24;
+}
+/*end rule */
+/* start header */
+/* .header .slider {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+    align-items: center;  
+}  */
+.header .slider .logo {
+    float: right; 
+    height: 500px;
+
+
+}
+.header .slider .face {
+    position: relative;
+    align-items: left;
+    height: 500px;
+}
+/* end header */
+
+footer {text-align: center;}
+.ender {
+   
+    padding: 10px;
+}
